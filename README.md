@@ -1,36 +1,25 @@
-Este es un proyecto de [Next.js](https://nextjs.org) inicializado con [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FocusFinance OS
 
-## Primeros Pasos
+Aplicación web para gestión de productividad y finanzas personales, integrando control de tareas, enfoque (Pomodoro) y seguimiento financiero en una sola plataforma.
 
-Primero, ejecuta el servidor de desarrollo:
+## 🚀 Funcionalidades
+- Dashboard interactivo con métricas de productividad
+- Sistema de enfoque tipo Pomodoro
+- Gestión de tareas con matriz de Eisenhower
+- Control de ingresos y gastos
+- Visualización de datos financieros
 
-```bash
-npm run dev
-# o
-yarn dev
-# o
-pnpm dev
-# o
-bun dev
-```
+## 🛠️ Tecnologías
+- Next.js
+- Firebase (Auth + DB)
+- PostgreSQL
+- Tailwind / UI moderna
 
-Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver el resultado.
+## 📸 Capturas
+(agrega aquí las imágenes que me enviaste)
 
-Puedes empezar a editar la página modificando `app/page.tsx`. La página se actualiza automáticamente a medida que editas el archivo.
+## 📌 Objetivo
+Desarrollar una plataforma integral para mejorar la productividad personal y el control financiero mediante herramientas digitales modernas.
 
-Este proyecto utiliza [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) para optimizar y cargar automáticamente [Geist](https://vercel.com/font), una nueva familia de fuentes para Vercel.
-
-## Aprende más
-
-Para aprender más sobre Next.js, echa un vistazo a los siguientes recursos:
-
-- [Documentación de Next.js](https://nextjs.org/docs) - aprende sobre las características y la API de Next.js.
-- [Aprende Next.js](https://nextjs.org/learn) - un tutorial interactivo de Next.js.
-
-Puedes revisar [el repositorio de GitHub de Next.js](https://github.com/vercel/next.js) - ¡tus comentarios y contribuciones son bienvenidos!
-
-## Desplegar en Vercel
-
-La forma más fácil de desplegar tu aplicación Next.js es utilizar la [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) de los creadores de Next.js.
-
-Revisa nuestra [documentación de despliegue de Next.js](https://nextjs.org/docs/app/building-your-application/deploying) para más detalles.
+## 🔗 Demo / Código
+Repositorio: https://github.com/Gustavohermosilla/FocusFinance
