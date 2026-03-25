@@ -1,0 +1,44 @@
+{
+  "name": "focus-finance",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.58",
+    "@ai-sdk/groq": "^3.0.29",
+    "@ai-sdk/openai": "^0.0.33",
+    "@ai-sdk/react": "^3.0.118",
+    "@ai-sdk/ui-utils": "^1.2.11",
+    "@supabase/ssr": "^0.9.0",
+    "@supabase/supabase-js": "^2.99.1",
+    "ai": "^6.0.116",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "googleapis": "^171.4.0",
+    "groq-sdk": "^1.1.1",
+    "lucide-react": "^0.577.0",
+    "luxon": "^3.7.2",
+    "next": "16.1.6",
+    "openai": "^6.29.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "recharts": "^3.8.0",
+    "tailwind-merge": "^3.5.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
